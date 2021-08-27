@@ -12,7 +12,7 @@
 </div>
   
   <div>
-    ![Snake animation](https://github.com/rayanetenorios/rayanetenorios)
+     ![Snake animation](https://github.com/rayanetenorios/rayanetenorios/blob/output/github-contribution-grid-snake.svg)
   </div>
   
  ## Estudos atuais:
