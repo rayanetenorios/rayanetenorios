@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on dev jr front-end ;
 -     //atualmente estou trabalhando como dev front-end jr;
-- 🌱 I’m currently learning JavaScript;
--     //atualmente estou estudando JavaScript;
+- 🌱 I’m currently learning Laravel & Vue.Js;
+-     //atualmente estou estudando Laravel & Vue.Js;
 
 <div>
     <a href="https://github.com/rayanetenorios">
