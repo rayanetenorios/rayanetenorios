@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Rayane Tenório
 
-- 🔭 I’m currently working on dev jr front-end ;
--     //atualmente estou trabalhando como dev front-end jr;
+- 🔭 I’m currently working on dev jr fullstack ;
+-     //atualmente estou trabalhando como dev fullstack jr;
 - 🌱 I’m currently learning Laravel & Vue.Js;
 -     //atualmente estou estudando Laravel & Vue.Js;
 
