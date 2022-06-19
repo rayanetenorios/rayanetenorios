@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on dev jr fullstack ;
 -     //atualmente estou trabalhando como dev fullstack jr;
-- 🌱 I’m currently learning Laravel & Vue.Js;
--     //atualmente estou estudando Laravel & Vue.Js;
+- 🌱 I’m currently learning Laravel & ReactJs;
+-     //atualmente estou estudando Laravel & ReactJs;
 
 <div>
     <a href="https://github.com/rayanetenorios">
@@ -13,8 +13,8 @@
   
  ## Estudos atuais:
 <div>
-   <a href="https://github.com/rayanetenorios/estudosJavaScript">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rayanetenorios&repo=estudosJavaScript&theme=radical" />
+   <a href="https://github.com/rayanetenorios/cronometro-de-atividades">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rayanetenorios&repo=cronometro-de-atividades&theme=radical" />
     </a>
    
 <a href="https://github.com/rayanetenorios/app_super_gestao">
