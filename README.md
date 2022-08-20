@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on dev jr fullstack ;
 -     //atualmente estou trabalhando como dev fullstack jr;
-- 🌱 I’m currently learning Laravel & ReactJs;
--     //atualmente estou estudando Laravel & ReactJs;
+- 🌱 I’m currently learning Laravel & Vue3;
+-     //atualmente estou estudando Laravel & Vue3;
 
 <div>
     <a href="https://github.com/rayanetenorios">
