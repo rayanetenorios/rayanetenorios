@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Rayane Tenório
 
-- 🔭 I’m currently working on dev jr fullstack ;
--     //atualmente estou trabalhando como dev fullstack jr;
-- 🌱 I’m currently learning Laravel & Vue3;
--     //atualmente estou estudando Laravel & Vue3;
+- 🔭 I’m currently working on dev pleno fullstack ;
+-     //atualmente estou trabalhando como dev fullstack pleno;
+- 🌱 I’m currently learning Laravel & Livewire;
+-     //atualmente estou estudando Laravel & Livewire;
 
 <div>
     <a href="https://github.com/rayanetenorios">
