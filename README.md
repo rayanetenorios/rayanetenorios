@@ -1,10 +1,5 @@
 ## Olá! Eu sou a Rayane Tenório
 
-- 🔭 I’m currently working on dev pleno fullstack ;
--     //atualmente estou trabalhando como dev fullstack pleno;
-- 🌱 I’m currently learning Laravel & Livewire;
--     //atualmente estou estudando Laravel & Livewire;
-
 <div>
     <a href="https://github.com/rayanetenorios">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayanetenorios&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
